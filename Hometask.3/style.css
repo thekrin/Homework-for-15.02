@@ -1,0 +1,14 @@
+table,th,td{
+    border: 1px groove black;
+    border-collapse: collapse;
+    width: 35%;
+}
+th,td{
+    background-color:bisque;
+}
+th{
+    width: 50%;
+}
+td{
+    width: 25%;
+}
